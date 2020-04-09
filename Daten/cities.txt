@@ -1,0 +1,6 @@
+name	temperature	population	area
+Hamburg	12.8	 1830584	755.0
+München	13.0	1456039	310.4
+Amsterdam	13.4	862276	219.3
+Madrid	19.5	3182981	604.3
+Prag	12.6	1294513	496.0
